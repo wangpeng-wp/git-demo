@@ -14,5 +14,6 @@ public class git_test {
         SimpleDateFormat sd = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         String format = sd.format(new Date());
         System.out.println(format);
+        System.out.println(format);
     }
 }
